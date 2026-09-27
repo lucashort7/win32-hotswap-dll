@@ -1,3 +1,9 @@
+```
+╔═╗╦╔═╦╔╦╗╔═╗   ┬   ╦ ╦╔═╗╦═╗╔╦╗
+╠═╣╠╩╗║ ║ ╠═╣  ┌┼─  ╠═╣║ ║╠╦╝ ║
+╩ ╩╩ ╩╩ ╩ ╩ ╩  └┘   ╩ ╩╚═╝╩╚═ ╩
+```
+
 # win32-hotswap-dll
 
 Load a DLL into a running process, or unload one, without restarting it. Built for the mod loop: build the DLL, swap it into the game, read the log, repeat.
